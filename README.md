@@ -1,5 +1,5 @@
 <h1 align="left">Hi, Im orzz5 a Frontend Developer</h1>
-<h3 align="left">I create cool websites with smooth animations and design in a really fast way</h3>
+<h3 style="font-size: 16" align="left">I create cool websites with smooth animations and design in a really fast way</h3>
 
 <!-- STATS (CENTRADOS + DARK) -->
 <p align="center">
