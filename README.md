@@ -8,7 +8,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orzz5&show_icons=true&locale=en" alt="orzz5" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.com/users/667791939453583373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/667791939453583373" height="30" width="40" /></a>
 </p>
